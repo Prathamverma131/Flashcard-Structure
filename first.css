@@ -1,0 +1,28 @@
+*,
+*::before,
+*::after{
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+
+.flash-container{
+    background: rgb(250, 242, 248);
+}
+
+.create{
+    font-size: 20.5px;
+}
+.details{
+    background: white;
+    
+}
+
+#sub{
+    background: red;
+    color: white;
+}
+
+
+
